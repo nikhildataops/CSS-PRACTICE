@@ -1,0 +1,70 @@
+h1{
+    display: inline;
+   
+   
+
+}
+#main{
+    font-weight: 400;
+    height: 60px;
+    width: 500px;
+    margin-top: 10%;
+    margin-left: 8%;
+    margin-bottom: 10%;
+    font-size: 35px;
+   
+    
+}
+.render {
+    display: inline-block;
+    position: absolute;
+    right: 1%;
+}
+a{
+    margin:0px 20px;
+
+}
+button{
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: fit-content;
+    height: 35px;
+    border-radius:99em;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.def{
+    margin-left: 8%;
+}
+.foot{
+    display: inline-block;
+    position: absolute;
+    bottom:2%;
+    margin-left: 15%;
+    
+    
+}
+.pic{
+    position: absolute;
+    right:0px;
+    bottom: 10%;
+    
+
+    
+}
+h4{
+    display:inline-block;
+}
+.line{
+    display: inline;
+    width: 100%;
+    position: absolute;
+    bottom: 5%;
+}
+.start button{
+    margin-left: 8%;
+}
+
